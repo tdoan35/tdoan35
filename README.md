@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+#### I'm a Full-Stack Software Engineer based in San Francisco Bay Area.
+
+##### NOW
+
+- 🔭 Co-creator of **Examin**, a test generation developer tool for React developers
+- ⚡️ JavaScript specialist focused on React (Hooks), Redux, RESTful APIs, Node, & Express 
+- 👯 Active **Open Source** contributor
+
+##### BIO
+
+- 🔭 My skills include: `Javascript (ES6)`, `Typescript`, `Python`, `Node.js`, `Express`, `React (Hooks)`, `Redux`, `RESTful APIs`
+- ⚙️ Graduated Cum Laude in Mechanical Engineering then pivoted into Software Engineering to pursue my passions
+- ✨ Won a LEGO robotics competition for an internship at the National Robotics Engineering Center in High School
+- 🌱 Featured speaker @SingleSprout's Speaker Series: "Diving Into New React/Redux Features"
+- 👯 Passionate about **Open Source** contributing
+- 📫 Reach me: [linkedin.com/in/ty-thanh-doan](https://www.linkedin.com/in/ty-thanh-doan/)
+- 💬 Ping me about **travel**, **rock climbing**, **hiking**, **3d printing**, **credit card point maxing**, **design**
+
 <!--
 **tdoan35/tdoan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
