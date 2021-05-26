@@ -14,8 +14,7 @@
 - ⚙️ Graduated Cum Laude in Mechanical Engineering then pivoted into Software Engineering to pursue my passions
 - ✨ Won a LEGO robotics competition for an internship at the National Robotics Engineering Center in High School
 - 🌱 Featured speaker @SingleSprout's Speaker Series: "Diving Into New React/Redux Features"
-- 👯 Passionate about **Open Source** contributing
-- 📫 Reach me: [linkedin.com/in/ty-thanh-doan](https://www.linkedin.com/in/ty-thanh-doan/)
+- 📫 Reach me: [linkedin.com/in/ty-thanh-doan](https://www.linkedin.com/in/ty-thanh-doan/) || [email](mailto:tdoan35@gmail.com)
 - 💬 Ping me about **travel**, **rock climbing**, **hiking**, **3d printing**, **credit card point maxing**, **design**
 
 <!--
