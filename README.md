@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🔭 Co-creator of **Examin**, a test generation developer tool for React developers
-- ⚡️ JavaScript specialist focused on React (Hooks), Redux, RESTful APIs, Node, & Express 
+- ⚡️ JavaScript specialist focused on React (Hooks), Redux, RESTful APIs, SQL, NoSQL, Node & Express 
 - 👯 Active **Open Source** contributor
 
 ##### BIO
