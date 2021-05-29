@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Ty
 
-#### I'm a software engineer based in San Francisco Bay Area.
+#### I'm a software engineer based in the San Francisco Bay Area.
 
 ##### NOW
 
