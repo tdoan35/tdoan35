@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Ty
 
-#### I'm a Full-Stack Software Engineer based in San Francisco Bay Area.
+#### I'm a full stack software engineer based in San Francisco Bay Area.
 
 ##### NOW
 
