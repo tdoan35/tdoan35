@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🔧 My skills include: `Javascript (ES6)`, `Typescript`, `Python`, `Node.js`, `Express`, `React (Hooks)`, `Redux`, `RESTful APIs`, `MaterialUI`, `Git`, `SQL`, `NoSQL`, `Webpack`, `BCrypt`, `CI/CD`, `Agile`, `Scrum`, `HTML/CSS`, `TDD (Jest, Enzyme, Mocha)`, `AWS (EC2, IAM, RDS, EBS)`, `Docker`, `OAuth`, `Authentication (Cookies, Sessions, JWTs)`
+- 🔧 My skills include: `Javascript (ES6)`, `Typescript`, `Python`, `Node.js`, `Express`, `Flow`, `Hack (php)`,  `React (Hooks)`, `Redux`, `GraphQL`, `RESTful APIs`, `MaterialUI`, `Git`, `SQL`, `NoSQL`, `Webpack`, `BCrypt`, `CI/CD`, `Agile`, `Scrum`, `HTML/CSS`, `TDD (Jest, Enzyme, Mocha)`, `AWS (EC2, IAM, RDS, EBS)`, `Docker`, `OAuth`, `Authentication (Cookies, Sessions, JWTs)`
 - ⚙️ Former Mechanical Engineer then pivoted into Software Engineering to pursue my passions
 - ✨ Won a LEGO robotics competition in High School which led to an internship at the National Robotics Engineering Center
 - 🌱 Featured speaker @SingleSprout's Speaker Series: "Diving Into New React/Redux Features"
