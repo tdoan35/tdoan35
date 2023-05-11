@@ -1,11 +1,11 @@
 ### Hi there 👋 - I'm Ty
 
-#### I'm a software engineer based in the San Francisco Bay Area.
+#### I'm a senior software engineer based in the San Francisco Bay Area.
 
 ##### NOW
 
 - 🔭 Co-creator of **Examin**, a test generation developer tool for React developers
-- ⚡️ JavaScript specialist focused on React (Hooks), Redux, GraphQL, RESTful APIs, SQL, NoSQL, Node & Express 
+- ⚡️ TypeScript specialist focused on React (Hooks), Redux, GraphQL, RESTful APIs, SQL, NoSQL, Node & Express 
 - 👯 Active **Open Source** contributor
 
 ##### BIO
