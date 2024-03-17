@@ -5,7 +5,7 @@
 ##### NOW
 
 - 📘 Currently at Meta (via Magnit)
-- 📖 I'm currently building on the application layer of an AI stack using LLM such as `GPT`/`Claude`/`llama2`/`Mixtral7B` by using connected APIs from `OpenAI`/`Replicate`/`Olama`/`LM Studio` using frameworks such as `langchain`/`langgraph`/`autogen` with tooling such as `PineconeDB`/`lambda`/`langsmith`
+- 📖 I'm currently exploring on the application layer of an AI stack using LLM such as `GPT`/`Claude`/`llama2`/`Mixtral7B` by using connected APIs from `OpenAI`/`Replicate`/`Olama`/`LM Studio` using frameworks such as `langchain`/`langgraph`/`autogen` with tooling such as `PineconeDB`/`lambda`/`langsmith`
 - 🔭 Co-creator of **Examin**, a test generation developer tool for React developers
 - ⚡️ TypeScript specialist focused on React (Hooks), Redux, GraphQL, RESTful APIs, SQL, NoSQL, Node & Express 
 - 👯 Active **Open Source** contributor
