@@ -5,7 +5,7 @@
 ##### NOW
 
 - 📘 Currently at Meta (via Magnit)
-- 📖 I'm currently exploring on the application layer of an AI stack using LLM such as `GPT`/`Claude`/`llama2`/`Mixtral7B` by using connected APIs from `OpenAI`/`Replicate`/`Olama`/`LM Studio` using frameworks such as `langchain`/`langgraph`/`autogen` with tooling such as `PineconeDB`/`lambda`/`langsmith`
+- 📖 I'm currently exploring on the application layer of an AI stack using LLMs such as `GPT`/`Claude`/`llama3` by using connected APIs from `OpenAI`/`Replicate`/`Olama` with tools such as `cursor`/`windsurf`
 - 🔭 Co-creator of **Examin**, a test generation developer tool for React developers
 - ⚡️ TypeScript specialist focused on React (Hooks), Redux, GraphQL, RESTful APIs, SQL, NoSQL, Node & Express 
 - 👯 Active **Open Source** contributor
@@ -15,7 +15,7 @@
 - 🔧 My skills include:
     - Languages: `Javascript (ES6)`, `Typescript`, `Python`, `Hacklang (php)`, `Java`, `R`, `HTML`, `CSS`, `SQL`, `GraphQL`
     - Tooling: `Node.js`, `drizzleORM`, `prisma`, `Express`, `Flow`, `React (Hooks)`, `NextJs`, `Redux`, `RESTful APIs`, `ShadCN`, `MaterialUI`, `SQL`, `NoSQL`, `Webpack`, `BCrypt`, `TDD (Jest, Enzyme, Mocha)`
-    - Cloud Services: `NeonDB`, `PineconeDB`, `AWS (S3, Lambda, EC2, IAM, RDS, EBS)`, `MongoDB`, `Firebase`, `Auth0`, `Clerk`, `Authentication (Cookies, Sessions, JWTs)`
+    - Cloud Services: `NeonDB`, `PineconeDB`, `Supabase`, `AWS (S3, Lambda, EC2, IAM, RDS, EBS)`, `MongoDB`, `Firebase`, `Auth0`, `Clerk`, `Authentication (Cookies, Sessions, JWTs)`
     - DevOps: `Git`, `Github Actions`, `TravisCI`, `NewRelic`, `SonarQube`, `Vercel`, `Vercel Edge Functions`, `Serverless`, `Docker`, `CI/CD`
 - ⚙️ Former Mechanical Engineer then pivoted into Software Engineering to pursue my passions
 - ✨ Won a LEGO robotics competition in High School which led to an internship at the National Robotics Engineering Center
